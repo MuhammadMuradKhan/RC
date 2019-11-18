@@ -19,3 +19,10 @@ C) Download the Synopsis planing file (3. Synopsis planing and evaluation form.d
    - The tasks will be evaluated during synopsis.
    - Bring atleast 3 printed copies of the planing file signed by the supervisor on the 
      day of synopsis.
+
+D) Download the Synopsis submission form (A. Synopsis Submission Form.docx)
+   - Once all previous tasks are complete, place the signed hard copies inside a folder.
+   - Download the synopsis submission form and print it.
+   - Contact Dr. Muhammad Murad Khan (PhD Room, Computer Science Department, GCUF Old Campus).
+   - Get the documents verified by Dr. Murad and get the signed submission form.
+   
