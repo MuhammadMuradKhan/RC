@@ -1,0 +1,30 @@
+\contentsline {chapter}{ACKNOWLEDGEMENTS}{iii}{chapter*.1}%
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{ii}{chapter*.2}%
+\contentsline {chapter}{ABSTRACT}{1}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}IEEE Template}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Ease of Use}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Maintaining the Integrity of the Specifications}{2}{subsection.1.1.1}%
+\contentsline {section}{\numberline {1.2}Prepare Your Paper Before Styling}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Abbreviations and Acronyms}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Units}{3}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Equations}{3}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}\LaTeX -Specific Advice}{3}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}Some Common Mistakes}{4}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}Authors and Affiliations}{5}{subsection.1.2.6}%
+\contentsline {subsection}{\numberline {1.2.7}Identify the Headings}{5}{subsection.1.2.7}%
+\contentsline {subsection}{\numberline {1.2.8}Figures and Tables}{6}{subsection.1.2.8}%
+\contentsline {paragraph}{Positioning Figures and Tables}{6}{section*.4}%
+\contentsline {chapter}{\numberline {2}IEEE Template}{8}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Ease of Use}{8}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Maintaining the Integrity of the Specifications}{8}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Prepare Your Paper Before Styling}{8}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Abbreviations and Acronyms}{8}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Units}{9}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Equations}{9}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}\LaTeX -Specific Advice}{9}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Some Common Mistakes}{10}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Authors and Affiliations}{11}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}Identify the Headings}{11}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}Figures and Tables}{12}{subsection.2.2.8}%
+\contentsline {paragraph}{Positioning Figures and Tables}{12}{section*.9}%
+\contentsline {chapter}{REFERENCES}{13}{section*.13}%

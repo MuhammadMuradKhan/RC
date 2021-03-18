@@ -1,0 +1,102 @@
+% Encoding: UTF-8
+@article{khan2017cross,
+  title={Cross domain recommender systems: a systematic literature review},
+  author={Khan, Muhammad Murad and Ibrahim, Roliana and Ghani, Imran},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={50},
+  number={3},
+  pages={1--34},
+  year={2017},
+  publisher={ACM New York, NY, USA}
+}
+
+@InProceedings{mk2,
+  author       = {Yumna, Hafiza and Khan, Muhammad Murad and Ikram, Maria and Ilyas, Sabahat},
+  booktitle    = {Asian Conference on Intelligent Information and Database Systems},
+  title        = {Use of blockchain in education: A systematic literature review},
+  year         = {2019},
+  organization = {Springer},
+  pages        = {191--202},
+}
+
+@Article{mk3,
+  author    = {Glez-Pe{\~n}a, Daniel and Louren{\c{c}}o, An{\'a}lia and L{\'o}pez-Fern{\'a}ndez, Hugo and Reboiro-Jato, Miguel and Fdez-Riverola, Florentino},
+  journal   = {Briefings in bioinformatics},
+  title     = {Web scraping technologies in an API world},
+  year      = {2014},
+  number    = {5},
+  pages     = {788--797},
+  volume    = {15},
+  publisher = {Oxford University Press},
+}
+
+@Article{ch1_ahmed_lr_methods,
+  author    = {Ahmed, Aquil and Alreyaee, Sulaiman and Rahman, Azizur},
+  journal   = {New Library World},
+  title     = {Theses and dissertations in institutional repositories: an Asian perspective},
+  year      = {2014},
+  publisher = {Emerald Group Publishing Limited},
+}
+
+@Article{ieeeb1,
+  author    = {Eason, George and Noble, Benjamin and Sneddon, Ian Naismith},
+  journal   = {Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences},
+  title     = {On certain integrals of Lipschitz-Hankel type involving products of Bessel functions},
+  year      = {1955},
+  number    = {935},
+  pages     = {529--551},
+  volume    = {247},
+  publisher = {The Royal Society London},
+}
+
+@Article{ieeeb2,
+  author    = {Kotiuga, P Robert},
+  journal   = {Journal of Applied Physics},
+  title     = {On making cuts for magnetic scalar potentials in multiply connected regions},
+  year      = {1987},
+  number    = {8},
+  pages     = {3916--3918},
+  volume    = {61},
+  publisher = {American Institute of Physics},
+}
+
+@Article{ieeeb3,
+  author    = {Meiklejohn, WH},
+  journal   = {Journal of Applied Physics},
+  title     = {Exchange anisotropy—a review},
+  year      = {1962},
+  number    = {3},
+  pages     = {1328--1335},
+  volume    = {33},
+  publisher = {American Institute of Physics},
+}
+
+@Article{ieeeb4,
+  author  = {Medina, V and Valdes, R and Azpiroz, J and Sacristan, E},
+  journal = {Management Science},
+  title   = {Title of paper if known [J]},
+  year    = {2007},
+  number  = {4},
+  pages   = {240--254},
+  volume  = {25},
+}
+
+@Article{ieeeb5,
+  author  = {Nicole, R},
+  journal = {Name Stand. Abbrev},
+  title   = {Title of paper with only first word capitalized, J},
+  year    = {1987},
+}
+
+@Article{ieeeb6,
+  author    = {Yorozu, T and Hirano, M and Oka, K and Tagawa, Y},
+  journal   = {IEEE translation journal on magnetics in Japan},
+  title     = {Electron spectroscopy studies on magneto-optical media and plastic substrate interface},
+  year      = {1987},
+  number    = {8},
+  pages     = {740--741},
+  volume    = {2},
+  publisher = {IEEE},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

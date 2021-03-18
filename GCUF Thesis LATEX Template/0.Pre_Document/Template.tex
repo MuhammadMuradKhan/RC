@@ -1,0 +1,89 @@
+\makeatletter
+\patchcmd{\l@chapter}{\bfseries}{}{}{}% \patchcmd{<cmd>}{<search>}{<replace>}{<success>}{<failure>}
+\makeatother%\usepackage{tocloft}% http://ctan.org/pkg/tocloft
+\renewcommand{\cftpartleader}{\cftdotfill{\cftdotsep}} % for parts
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}} % for chapters
+\headheight=0in
+\headsep=0pt
+\advance\hoffset by 0.1in
+\advance\hoffset by 0in
+\advance\voffset by 0in
+\advance\voffset by 0cm
+\textwidth=5.95in
+\textheight=9.6in
+
+%---------------------------------------------------------------------------------------------------------------------------
+
+
+\newlength{\defbaselineskip}
+ \setlength{\defbaselineskip}{\baselineskip}
+\newcommand{\setlinespacing}[1]%
+           {\setlength{\baselineskip}{#1 \defbaselineskip}}
+\newcommand{\doublespacing}{\setlength{\baselineskip}%
+                           {2.0 \defbaselineskip}}
+\newcommand{\singlespacing}{\setlength{\baselineskip}{\defbaselineskip}}
+
+
+
+%---------------------------------------------------------------------------------------------------------------------------
+
+\setcounter{MaxMatrixCols}{10}
+
+
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{acknowledgement}{Acknowledgement}
+\newtheorem{algorithm}{Algorithm}
+\newtheorem{axiom}{Axiom}
+\newtheorem{case}{Case}
+\newtheorem{claim}{Claim}
+\newtheorem{conclusion}{Conclusion}
+\newtheorem{condition}{Condition}
+\newtheorem{conjecture}{Conjecture}
+\newtheorem{corollary}{Corollary}[chapter]
+\newtheorem{criterion}{Criterion}
+\newtheorem{definition}{Definition}[section]
+\newtheorem{example}{Example}
+\newtheorem{exercise}{Exercise}
+\newtheorem{lemma}{Lemma}[chapter]
+\newtheorem{notation}{Notation}
+\newtheorem{problem}{Problem}
+\newtheorem{proposition}{Proposition}
+\newtheorem{remark}{Remark}[chapter]
+\newtheorem{solution}{Solution}
+\newtheorem{summary}{Summary}
+\newenvironment{proof}[1][Proof]{\textbf{#1.} }{\ \rule{0.5em}{0.5em}}
+%\input{tcilatex}
+\renewcommand{\thetheorem}{\arabic{chapter}.\arabic{section}.\arabic{theorem}}
+\renewcommand{\thedefinition}{\arabic{chapter}.\arabic{section}.\arabic{definition}}
+\renewcommand{\theremark}{\arabic{chapter}.\arabic{section}.\arabic{remark}}
+\renewcommand{\thecorollary}{\arabic{chapter}.\arabic{section}.\arabic{corollary}}
+\renewcommand{\thelemma}{\arabic{chapter}.\arabic{section}.\arabic{lemma}}
+\renewcommand\contentsname{TABLE OF CONTENTS}
+\renewcommand\bibname{REFERENCES}
+\renewcommand{\appendixname}{LIST OF ABBREVIATIONS}
+\renewcommand{\chaptername}{Chapter}
+\makeatletter
+\def\@makeschapterhead#1{
+ {\parindent \z@ \centering
+    \normalfont
+    \interlinepenalty\@M
+    \Large \bfseries  #1\par\nobreak
+    \vskip 40\p@
+  }}
+\def\@makechapterhead#1{
+ {\parindent \z@
+    \normalfont
+    \interlinepenalty\@M
+    \large \rm \bfseries \chaptername\ \thechapter\  \par \centering \Large #1 \par\nobreak
+    \vskip 40\p@
+  }}
+%\makeatother
+%\makeatletter
+%\def\@biblabel#1{\hspace*{-\labelsep}}
+\makeatother
+\pagestyle{empty}
+\iffalse
+\tableofcontents
+
+\fi
+\renewcommand{\theequation}{\arabic{chapter}.\arabic{section}.\arabic{equation}}

@@ -1,0 +1,43 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Eason et~al.}{1955}]{ieeeb1}
+Eason, G., Noble, B., and Sneddon, I.~N. (1955).
+\newblock On certain integrals of lipschitz-hankel type involving products of
+  bessel functions.
+\newblock {\em Philosophical Transactions of the Royal Society of London.
+  Series A, Mathematical and Physical Sciences}, 247(935):529--551.
+
+\bibitem[\protect\astroncite{Kotiuga}{1987}]{ieeeb2}
+Kotiuga, P.~R. (1987).
+\newblock On making cuts for magnetic scalar potentials in multiply connected
+  regions.
+\newblock {\em Journal of Applied Physics}, 61(8):3916--3918.
+
+\bibitem[\protect\astroncite{Medina et~al.}{2007}]{ieeeb4}
+Medina, V., Valdes, R., Azpiroz, J., and Sacristan, E. (2007).
+\newblock Title of paper if known [j].
+\newblock {\em Management Science}, 25(4):240--254.
+
+\bibitem[\protect\astroncite{Meiklejohn}{1962}]{ieeeb3}
+Meiklejohn, W. (1962).
+\newblock Exchange anisotropy—a review.
+\newblock {\em Journal of Applied Physics}, 33(3):1328--1335.
+
+\bibitem[\protect\astroncite{Nicole}{1987}]{ieeeb5}
+Nicole, R. (1987).
+\newblock Title of paper with only first word capitalized, j.
+\newblock {\em Name Stand. Abbrev}.
+
+\bibitem[\protect\astroncite{Yorozu et~al.}{1987}]{ieeeb6}
+Yorozu, T., Hirano, M., Oka, K., and Tagawa, Y. (1987).
+\newblock Electron spectroscopy studies on magneto-optical media and plastic
+  substrate interface.
+\newblock {\em IEEE translation journal on magnetics in Japan}, 2(8):740--741.
+
+\bibitem[\protect\astroncite{Young}{2002}]{ieeeb7}
+Young, M. (2002).
+\newblock {\em The technical writer's handbook: writing with style and
+  clarity}.
+\newblock University Science Books.
+
+\end{thebibliography}

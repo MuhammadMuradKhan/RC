@@ -1,0 +1,103 @@
+% ############################################################
+% ## Note          : GCUF Thesis Template  				    ##
+% ## Maintained by : Muhammad Murad Khan                    ##
+% ##               : Assistant Professor (OPS)              ##
+% ##               : Computer Science Department, GCUF, FSD ##
+% ## url           : http://tinyurl.com/gcufcsrc            ##
+% ############################################################
+
+
+% ## Variables ###############################################
+\newcommand{\studentName}{Muhammad Murad Khan}
+\newcommand{\studentRegNo}{2014-GCUF-S00576}
+\newcommand{\studentDept}{Computer Science}
+\newcommand{\degreeType}{Doctor of Philosophy}
+\newcommand{\supervisorName}{Roliana Ibrahim}
+\newcommand{\supervisorTitle}{Assistant Professor}
+\newcommand{\compiledToday}{\today}
+\newcommand{\thesisTitle}{Thesis Template: Latex Template for GCUF Thesis}
+\newcommand{\monthyeardate}{\ifcase \month \or January\or February\or March\or %
+	April\or May \or June\or July\or August\or September\or October\or November\or %
+	December\fi, \number \year}
+\newcommand{\chone}{11.Chapter_1}
+\newcommand{\chtwo}{12.Chapter_2}
+\newcommand{\chthree}{13.Chapter_3}
+\newcommand{\chfour}{14.Chapter_4}
+\newcommand{\chfive}{15.Chapter_5}
+\newcommand{\chsix}{16.Chapter_6}
+
+\newcommand{\imagepath}{\chone/images/}
+\newcommand{\tablepath}{\chone/tables/}
+
+
+% ## Document Type ###########################################
+\documentclass[12pt,a4paper]{report}
+
+% ## Included pachages #######################################
+\usepackage[a4paper,bindingoffset=0.25in, left=1.25in,right=1in,top=1in,bottom=1in, footskip=.25in]{geometry}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{sw20mitt}
+\usepackage{times}
+\usepackage{natbib} 
+\usepackage[arrow,matrix]{xy}
+\usepackage[section]{placeins}
+\usepackage{etoolbox}
+\usepackage{tocloft}
+\usepackage{caption}
+\numberwithin{figure}{chapter}
+
+\usepackage[bookmarks=true, pdfstartview={FitH}, pdftitle={\thesisTitle}, pdfauthor={\studentName}]{hyperref}
+\usepackage{afterpage}
+\usepackage{amsmath}
+\usepackage{graphicx, epstopdf}
+\usepackage{mathrsfs}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage[leftcaption]{sidecap}
+
+% ## Pre document file ######################################
+\input 0.Pre_Document/Template.tex
+
+\begin{document}
+
+\input 1.Title_Page/Template.tex
+
+\input 2.Dedication/Template.tex
+
+\input 3.Declaration/Template.tex
+
+\input 4.Certificate/Template.tex
+
+\input 5.Table_of_contents/Template.tex
+
+\input 6.Acknowledgement/Template.tex
+
+\input 7.List_of_figures/Template.tex
+
+\input 8.List_of_tables/Template.tex
+
+\input 9.List_of_abbreviations/Template.tex
+
+\input 10.Abstract/Template.tex
+
+\input 11.Chapter_1/Chapter.tex
+
+\input 12.Chapter_2/Chapter.tex
+
+%\input 13.Chapter_3/Chapter.tex
+
+%\input 14.Chapter_4/Chapter.tex
+
+%\input 15.Chapter_5/Chapter.tex
+
+\appendix{}
+
+\addcontentsline{toc}{chapter}{REFERENCES}
+\bibliographystyle{apa}
+\bibliography{CONTENT/BIB/bibliography}
+
+\end{document}
+
+
+

@@ -1,0 +1,33 @@
+% Encoding: UTF-8
+@article{khan2017cross,
+  title={Cross domain recommender systems: a systematic literature review},
+  author={Khan, Muhammad Murad and Ibrahim, Roliana and Ghani, Imran},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={50},
+  number={3},
+  pages={1--34},
+  year={2017},
+  publisher={ACM New York, NY, USA}
+}
+
+@InProceedings{mk2,
+  author       = {Yumna, Hafiza and Khan, Muhammad Murad and Ikram, Maria and Ilyas, Sabahat},
+  booktitle    = {Asian Conference on Intelligent Information and Database Systems},
+  title        = {Use of blockchain in education: A systematic literature review},
+  year         = {2019},
+  organization = {Springer},
+  pages        = {191--202},
+}
+
+@Article{mk3,
+  author    = {Glez-Pe{\~n}a, Daniel and Louren{\c{c}}o, An{\'a}lia and L{\'o}pez-Fern{\'a}ndez, Hugo and Reboiro-Jato, Miguel and Fdez-Riverola, Florentino},
+  journal   = {Briefings in bioinformatics},
+  title     = {Web scraping technologies in an API world},
+  year      = {2014},
+  number    = {5},
+  pages     = {788--797},
+  volume    = {15},
+  publisher = {Oxford University Press},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
